@@ -5,3 +5,5 @@
 ## Using flex
 
 the text is displayed simultaneously using flex in display property.
+
+##align and center the card.
