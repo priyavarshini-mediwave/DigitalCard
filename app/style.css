@@ -1,15 +1,15 @@
-body{
-    margin: 20px;
-    margin-left: 100px;
+body {
+  margin: 20px;
+  margin-left: 100px;
 }
-.card{
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 5px double darkcyan;
-    background-color: rgb(153, 128, 91);
-    text-align: center;
-    width: 300px;
-    display:flex;
-    justify-content: space-around;
+.card {
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px double darkcyan;
+  background-color: rgb(153, 128, 91);
+  text-align: center;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
 }
